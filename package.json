@@ -11,6 +11,12 @@
     "url": "http://bryce.is/"
     },
     "main": "./src/nodejs/flashio.js",
+    
+    "scripts": {
+        "start": "node --use_strict ./src/nodejs/flashio.js"
+    },
+
+
     "devDependencies": {
     },
     "dependencies": {
